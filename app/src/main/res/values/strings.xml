@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ActivityLifeCycleDemo</string>
+    <string name="Button1">Button 1</string>
+    <string name="Button2">Button 2</string>
+    <string name="btnOpen">Open</string>
+    <string-array name="Cities">
+        <item>Ahemdabad</item>
+        <item>Anand</item>
+        <item>Vadodara</item>
+        <item>Bharuch</item>
+        <item>Surat</item>
+        <item>Navsari</item>
+        <item>Valsad</item>
+        <item>Vapi</item>
+    </string-array>
+    <string name="sv">Enter Search text here</string>
+    <string name="f1">This is Fragment 1</string>
+    <string name="f2">This is Fragment 2</string>
+</resources>
