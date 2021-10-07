@@ -28,7 +28,7 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
-
+// code for JSON Crud
 public class StudActivity extends AppCompatActivity {
     String url="http://192.168.56.1/StudentAPI.php";
     String Addurl = "http://192.168.56.1/AddStudent.php";
